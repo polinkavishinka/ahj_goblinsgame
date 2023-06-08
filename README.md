@@ -1,3 +1,4 @@
-[![Build Status](https://api.cirrus-ci.com/github/polinkavishinka/ahj_goblinsgame.svg)](https://cirrus-ci.com/polinkavishinka/ahj_goblinsgame)
+[![Build Status](https://github.com/polinkavishinka/ahj_goblinsgame/actions/workflows/web.yml/badge.svg)](https://github.com/polinkavishinka/ahj_goblinsgame)
+
 
 https://github.com/polinkavishinka/ahj_goblinsgame
